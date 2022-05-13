@@ -137,6 +137,13 @@ HLR4 |  Wiper System. OFF | Applied
 
 ![Highlevel flow chart](https://user-images.githubusercontent.com/101012637/168312504-929c95c4-35d8-41d9-83ca-d72640107a20.png)
 
+# STRUCTURAL DIAGRAMS
+
+
+## SCHEMATIC DIAGRAM
+
+![image](https://user-images.githubusercontent.com/101012637/168313220-84a2f6f3-a375-4fa9-89d9-25bd6832748b.png)
+
 
 
 
