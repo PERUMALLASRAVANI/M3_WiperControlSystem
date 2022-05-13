@@ -23,5 +23,73 @@ The wiper will finish one cycle if the button is pressed FIVE times.
 
 # SWOT ANALYSIS
 
+![image](https://user-images.githubusercontent.com/101012637/168273783-f0ec54bc-2bd7-4729-a057-01b1e7a7ed67.png)
+
+## STRENGTH 
+
+There is no requirement for human interaction.
+Viper systems from many vehicles can be interfaced and managed.
+A basic User Button allows for easy control and usage of functions.
+Cost-effective.
+
+## WEAKNESSES
+
+Instead of employing Delays, Timers/Interrupts may be a better option.
+Limited range of application.
+User privacy and security are compromised.
+
+
+## OPPORTUNITIES
+
+Viper Management and Control System has a broad scope in the future of automobiles. Because advanced features can raise the value of a car.
+
+## THREATS 
+
+In the automobile development industry, there are now many new emerging gadgets for competition.
+
+
+# 4W'S AND 1H
+
+## WHAT ?
+
+A wireless key controls the Viper of an automobile under the Viper Control system. LEDs will indicate the state of the viper
+.
+## WHY ?
+
+To understand the idea underlying a Viper system and to modify its speed according to the needs of the user.
+
+## WHO?
+
+People who all own automobiles. Everyone who drives a motor vehicle and needs a good view of the road.
+
+## WHERE ?
+
+The user can use the features supplied anywhere they wish.
+
+## HOW ?
+
+Through the use of a single button. The location of the wiper is shown by an LED, which returns to its original position after cleaning the windsheet of a car.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
