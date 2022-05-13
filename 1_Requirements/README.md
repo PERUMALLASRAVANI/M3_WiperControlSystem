@@ -21,4 +21,7 @@ It will turn on and move clockwise after being pressed three times.
 It will wiper off and move in an anticlockwise direction after being pressed FOUR times.
 The wiper will finish one cycle if the button is pressed FIVE times.
 
+# SWOT ANALYSIS
+
+
 
