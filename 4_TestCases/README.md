@@ -18,3 +18,19 @@ Test ID  | Description | Input | Expected Output | Actual Output | success/fail
 
 
 # HIGHLEVEL TEST CASES 
+
+<html>
+<body>
+<!--StartFragment-->
+
+Test ID | Description | Input | Expected output | Actual Output
+-- | -- | -- | -- | --
+01 | Ignition On | Press Button 2 sec | Ignition key status | Exhibited
+02 | Wiper On | Press Once | 1Hz | Exhibited
+03 | Wiper On | Press TWICE | 4Hz | Exhibited
+04 | Wiper On | Press THRICE | 8Hz | Exhibited
+05 | Ignition Off | Press Button 2 sec | Ignition key status | Exhibited
+
+<!--EndFragment-->
+</body>
+</html>
