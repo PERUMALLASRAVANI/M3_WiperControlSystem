@@ -90,6 +90,3 @@ Through the use of a single button. The location of the wiper is shown by an LED
 
 
 
-
-
-
