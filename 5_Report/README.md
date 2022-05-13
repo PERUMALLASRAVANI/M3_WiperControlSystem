@@ -125,6 +125,12 @@ HLR4 |  Wiper System. OFF | Applied
 
 ![LED OFF](https://user-images.githubusercontent.com/101012637/168314188-834491ef-a954-4c32-9f40-f62edd7bedff.jpeg)
 
+# BEHAVIOURAL DIAGRAM
+
+
+## LOWLEVEL FLOW CHART 
+
+![Lowlevel flow chart](https://user-images.githubusercontent.com/101012637/168312274-fd059ca9-d8fc-40bf-aeb5-06bd9a62c2d8.png)
 
 
 
