@@ -71,7 +71,20 @@ The user can use the features supplied anywhere they wish.
 Through the use of a single button. The location of the wiper is shown by an LED, which returns to its original position after cleaning the windsheet of a car.
 
 
+#  LOWLEVEL REQUIUREMENTS
 
+
+
+
+
+
+
+
+
+
+
+
+# HIGHLEVEL REQUIREMENTS
 
 
 
